@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokodigon", "Pokodigon\Pokodigon.csproj", "{A741E5B3-06CB-45FC-982A-5D2A2659011F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A741E5B3-06CB-45FC-982A-5D2A2659011F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A741E5B3-06CB-45FC-982A-5D2A2659011F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A741E5B3-06CB-45FC-982A-5D2A2659011F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A741E5B3-06CB-45FC-982A-5D2A2659011F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AC11A0E-6DE5-4C88-971D-677BE007521A}
+	EndGlobalSection
+EndGlobal
